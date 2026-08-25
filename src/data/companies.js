@@ -66,5 +66,10 @@ export const companies = [
     name: "Meta",
     logo: `${BASE_URL}images/salesforce.png`,
   },
+  {
+    id: 14,
+    name: "Meta",
+    logo: `${BASE_URL}images/salesforce.png`,
+  }
   
 ];
